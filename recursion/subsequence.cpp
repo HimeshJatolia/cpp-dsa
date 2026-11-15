@@ -23,7 +23,7 @@ void f(int i,int arr[],vector<int> &s,int n){
 }
 
 int main(){
-    int arr[3]={33,44,55};
+    int arr[3]={1,2,1};
     vector<int> s;
     f(0,arr,s,3);    
 }
